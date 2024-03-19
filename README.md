@@ -1,4 +1,4 @@
-BASIC CHECK SCRIPT
+**BASIC CHECK SCRIPT**
 
 Este script en bash proporciona una forma rápida y sencilla de obtener estadísticas del sistema, como el uso de memoria RAM, la carga de la CPU, el uso de inodos, el porcentaje de E/S, el uso de disco y los procesos principales que consumen CPU.
 
@@ -11,7 +11,7 @@ Uso
    **./basic_check.sh**
 4. Selecciona una de las opciones mostradas para obtener la estadística correspondiente.
 
-Opciones:
+**Opciones:**
 
 r) Mostrar el uso actual de memoria RAM
 .
@@ -27,7 +27,7 @@ p) Mostrar los principales procesos que consumen CPU.
 
 h) Mostrar el panel de ayuda con las opciones disponibles.
 
-Ctrl+C
+**Ctrl+C**
 
 Puedes presionar Ctrl+C en cualquier momento para cerrar el script.
 
