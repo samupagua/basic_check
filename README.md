@@ -6,9 +6,9 @@ Uso
 
 1. Descarga el script: **basic_check.sh**
 2. Dale permisos de ejecución al script:
-   chmod +x basic_check.sh
+   **chmod +x basic_check.sh**
 3. Ejecuta el script:
-   ./basic_check.sh
+   **./basic_check.sh**
 4. Selecciona una de las opciones mostradas para obtener la estadística correspondiente.
 
 Opciones:
