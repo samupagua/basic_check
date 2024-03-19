@@ -13,8 +13,8 @@ Uso
 
 **Opciones:**
 
-r) Mostrar el uso actual de memoria RAM
-.
+r) Mostrar el uso actual de memoria RAM.
+
 c) Mostrar el porcentaje de tiempo de CPU inactivo del sistema.
 
 i) Mostrar el uso actual de inodos.
